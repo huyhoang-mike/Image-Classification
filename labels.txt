@@ -1,0 +1,4 @@
+0 Cloud
+1 Shine
+2 Sunrise
+3 Rain
